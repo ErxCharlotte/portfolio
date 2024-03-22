@@ -6,7 +6,7 @@ import { motion } from "framer-motion";
 import Link from "next/link";
 
 const HeroSection = () => {
-  const fileUrl = 'https://drive.google.com/file/d/1isg8iGReyKbbGoVMMPo3QekbnM6Oqwvj/view?usp=drive_link';
+  const fileUrl = 'https://drive.google.com/uc?export=download&id=1ToFn8zqczj4ssXYlIPx80JqW0LnOhTbF';
 
   // 定义要下载的文件的名称
   const fileName = 'Charlotte-cv.pdf';
