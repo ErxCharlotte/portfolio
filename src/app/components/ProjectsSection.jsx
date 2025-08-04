@@ -34,12 +34,12 @@ const projectsData = [
   },
   {
     id: 4,
-    title: "Personal blog",
-    description: "Based on Wordpress. Work as a full stack developer.",
-    image: "/images/projects/blog.png",
+    title: "FFXIV Strategy Website",
+    description: "A raid strategy planning tool for Final Fantasy XIV, built with Next.js and TailwindCSS. Designed and developed the front-end interface, including a drag-and-drop timeline editor and live preview features.",
+    image: "/images/projects/xivstrat.png",
     tag: ["All", "Web"],
-    gitUrl: "https://www.kynono.world/",
-    previewUrl: "https://drive.google.com/file/d/12EIT8hKgMwsxWjlmDQQrUWR1AT8UAZd4/view?usp=drive_link",
+    gitUrl: "https://xivstrat.com",
+    previewUrl: "https://xivstrat.com",
   },
   {
     id: 5,
@@ -86,6 +86,17 @@ const projectsData = [
     gitUrl: "https://erxcharlotte.github.io/BestMate-Paradise/",
     previewUrl: "https://drive.google.com/file/d/1kcm3vl-mkNOrK1xRSy_JpKca1UiaeuXo/view?usp=drive_link",
   },
+  {
+    id: 10,
+    title: "Personal blog",
+    description: "Based on Wordpress. Work as a full stack developer.",
+    image: "/images/projects/blog.png",
+    tag: ["All", "Web"],
+    gitUrl: "https://www.kynono.world/",
+    previewUrl: "https://drive.google.com/file/d/12EIT8hKgMwsxWjlmDQQrUWR1AT8UAZd4/view?usp=drive_link",
+  },
+
+  
 ];
 
 const ProjectsSection = () => {
