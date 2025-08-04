@@ -35,7 +35,7 @@ const projectsData = [
   {
     id: 4,
     title: "FFXIV Strategy Website",
-    description: "A raid strategy planning tool for Final Fantasy XIV, built with Next.js and TailwindCSS. Designed and developed the front-end interface, including a drag-and-drop timeline editor and live preview features.",
+    description: "A raid strategy planning tool for Final Fantasy XIV, built with Next.js and TailwindCSS.",
     image: "/images/projects/xivstrat.png",
     tag: ["All", "Web"],
     gitUrl: "https://xivstrat.com",
